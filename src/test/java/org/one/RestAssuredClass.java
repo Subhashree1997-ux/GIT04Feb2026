@@ -15,6 +15,9 @@ public class RestAssuredClass {
 		System.out.println(statusCode);
 		String asPrettyString = request.getBody().asPrettyString();
 		System.out.println(asPrettyString);
+		int num=100;
+		System.out.println("Deserialization");
+		
 	}
 
 }
