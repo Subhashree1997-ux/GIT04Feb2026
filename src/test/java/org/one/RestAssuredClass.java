@@ -17,6 +17,10 @@ public class RestAssuredClass {
 		System.out.println(asPrettyString);
 		int num=100;
 		System.out.println("Deserialization");
+		int num=200;
+		System.out.println("Serialization");
+
+		
 		
 	}
 
